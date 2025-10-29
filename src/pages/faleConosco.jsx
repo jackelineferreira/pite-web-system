@@ -80,10 +80,10 @@ export default function FaleConosco() {
               Informações de Contato
             </h3>
             <p className="text-gray-700">
-              📍 Rua Exemplo, 123 - São Paulo, SP
+               Rua Exemplo, 123 - São Paulo, SP
             </p>
-            <p className="text-gray-700">📧 contato@pite.com.br</p>
-            <p className="text-gray-700">📞 (11) 99999-9999</p>
+            <p className="text-gray-700"> contato@pite.com.br</p>
+            <p className="text-gray-700"> (11) 99999-9999</p>
           </div>
 
           <div>

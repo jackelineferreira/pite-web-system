@@ -109,10 +109,10 @@ export default function Oferecemos() {
                 Portal do Administrador
               </h3>
               <ul className="text-gray-700 space-y-2">
-                <li> Relatórios e monitoramento completo</li>
-                <li> Acesso em tempo real às operações</li>
-                <li> Visibilidade sobre motoristas e presença</li>
-                <li> Controle de escolas e alunos</li>
+                <li>• Relatórios e monitoramento completo</li>
+                <li>• Acesso em tempo real às operações</li>
+                <li>• Visibilidade sobre motoristas e presença</li>
+                <li>• Controle de escolas e alunos</li>
               </ul>
             </div>
           </div>
@@ -127,10 +127,10 @@ export default function Oferecemos() {
                 Aplicativo do Estudante
               </h3>
               <ul className="text-gray-700 space-y-2">
-                <li> Informações atualizadas de embarque e desembarque</li>
-                <li> Notificações automáticas de chegada</li>
-                <li> Visualização de rotas em tempo real</li>
-                <li> Interface moderna e intuitiva</li>
+                <li>• Informações atualizadas de embarque e desembarque</li>
+                <li>• Notificações automáticas de chegada</li>
+                <li>• Visualização de rotas em tempo real</li>
+                <li>• Interface moderna e intuitiva</li>
               </ul>
             </div>
             <img
@@ -155,10 +155,10 @@ export default function Oferecemos() {
                 Portal do Motorista
               </h3>
               <ul className="text-gray-700 space-y-2">
-                <li> Planejamento de rotas otimizado</li>
-                <li> Comunicação com gestores em tempo real</li>
-                <li> Registro automático de presença</li>
-                <li> Aplicativo leve e fácil de usar</li>
+                <li>• Planejamento de rotas otimizado</li>
+                <li>• Comunicação com gestores em tempo real</li>
+                <li>• Registro automático de presença</li>
+                <li>• Aplicativo leve e fácil de usar</li>
               </ul>
             </div>
           </div>

@@ -13,7 +13,7 @@ export default function Header() {
         <img
             src={logo}
             alt="Logo PITE"
-            className="h-10 w-auto" // ajuste o tamanho conforme necessário
+            className="h-10 w-auto" 
           />
         </Link>
 
@@ -44,9 +44,11 @@ export default function Header() {
           </Link>
         </nav>
 
-        <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition">
+        <Link
+          to="/acesso"
+          className="bg-yellow-400 text-blue-900 px-6 py-2 rounded-lg font-semibold hover:bg-yellow-300 transition">
           Entrar
-        </button>
+        </Link>
       </div>
     </header>
   );
